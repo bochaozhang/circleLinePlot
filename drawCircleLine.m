@@ -5,7 +5,7 @@ function drawCircleLine(wedge,r,color,lbl,outFileName)
 % color: N*3 matrix containing rbg data of each N characteristic
 % lbl: N*1 cell containing label of each N charateristic
 % outFileName: name of the output file
-% bubblePie credits to Abraham Anderson https://www.mathworks.com/matlabcentral/fileexchange/15751-bubblepie
+% bubblePie credits to Amro https://stackoverflow.com/questions/11073889/scatter-pie-plot
 
 % begin drawing
 figure('position',[0 0 1600 800]);
